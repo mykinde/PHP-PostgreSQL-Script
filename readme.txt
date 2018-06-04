@@ -1,4 +1,4 @@
 Install Notes:
 
 
-1. Disable Internet connection.
+1.Posgres Database Query
